@@ -1414,7 +1414,8 @@ display: flex;
   padding: 0px;
   gap: 16px;
 
-  width: 15vw;
+  /* width: 15vw; */
+  width: max-content;
   height: 28px;
 }
 
@@ -1424,7 +1425,7 @@ display: flex;
 }
 
 .population--states > h4 {
-  width: 12vw;
+  width: 42vw;
     height: 28px;
   
     /* Heading/xSmall */
