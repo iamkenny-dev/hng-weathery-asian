@@ -291,6 +291,12 @@ nav {
   /* z-index: 99; */
 }
 
+@media (max-width: 1350px) {
+  .autumn--container {
+    margin-top: -700px;
+  }
+}
+
 @media (max-width: 600px) {
   .autumn--container {
     /* position: absolute; */
