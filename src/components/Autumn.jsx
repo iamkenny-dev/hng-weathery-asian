@@ -4,9 +4,11 @@ export default function Autumn() {
   return (
     <div>
         <div className="autumn--wrapper">
-            <h1 className="asian--text">Weathery for ASIA</h1>
             <img src="/img/pexels.jpg" alt="" />
             <div className="autumn--container">
+
+                <h1 className="asian--text">Weathery for ASIA</h1>
+                
 
                 <div className="autumn--head">
                     <h1>Accurately predict and provide real time weather information in tropical regions without signing up</h1>
